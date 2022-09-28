@@ -1,8 +1,7 @@
 ### Olá! Me chamo Luan. 👋
 
-* 🔭 Atualmente trabalho como Analista de Sistemas II mas pretendo me tornar Desenvolvedor.
-* 🌱 Atualmente estudo as linguagens Python e JavaScript.
-* 🌱 Tenho conhecimentos básicos de HTML e CSS.
+* 🌱 Atualmente estudo JavaScript, TypeScript e React.
+* 🌱 Tenho conhecimentos em HTML, CSS, JS, TS, React, Node.JS, Python e SQL.
 * 📫 Meu e-mail para contado: l.u.a.n@hotmail.com
 
 <div>
