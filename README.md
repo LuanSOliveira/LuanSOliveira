@@ -1,7 +1,7 @@
 ### Olá! Me chamo Luan. 👋
 
-* 🌱 Atualmente estudo JavaScript, TypeScript e React.
-* 🌱 Tenho conhecimentos em HTML, CSS, JS, TS, React, Node.JS, Python e SQL.
+* 🌱 Atualmente atuo como desenvolvedor Front-End.
+* 🌱 Tenho conhecimentos em React, Next.JS, Typescript, Javascript, Angular, HTML, CSS.
 * 📫 Meu e-mail para contado: l.u.a.n@hotmail.com
 
 <div>
