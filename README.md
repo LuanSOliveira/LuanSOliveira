@@ -2,7 +2,7 @@
 
 * 🌱 Atualmente atuo como desenvolvedor Front-End.
 * 🌱 Tenho conhecimentos em React, Next.JS, Typescript, Javascript, Angular, HTML, CSS.
-* 📫 Meu e-mail para contado: luanso.frontdev.com
+* 📫 Meu e-mail para contado: luanso.frontdev@gmail.com
 
 <div>
   <a href="https://github.com/LuanSOliveira">
